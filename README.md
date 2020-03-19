@@ -1,2 +1,3 @@
 # hello-world.
-this is simple 
+hii,go corona goo jaldi
+u destroy my nation
